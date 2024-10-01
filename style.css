@@ -31,7 +31,6 @@
   
   .seccion-clara {
     color: black;
-    background-color: white;
   }
   
   .seccion-titulo {
@@ -65,7 +64,6 @@
   /* Seccion Hero */
   
   .hero {
-    background-color: #f5f6f7;
     min-height: 450px;
     text-align: center;
   }

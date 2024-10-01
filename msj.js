@@ -1,12 +1,12 @@
 function mostrarMensaje() {
 
-    alert("¡Hola!! te vamos a extrañar mucho profe");
+    alert("¡Hola!! te vamos a extrañar mucho ");
 
 }
 
 function cambiarColorFondo() {
 
-    document.body.style.backgroundColor = "violet";
+    document.body.style.backgroundColor = "lightblue";
 
 }
 
